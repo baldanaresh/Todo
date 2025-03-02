@@ -1,8 +1,45 @@
-# React + Vite
+# 📌 Todo App with Remove & Clear Functionality
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and efficient Todo App built using React.js and Tailwind CSS.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✔️ Add Todos by pressing the "Enter" key or clicking the button.
+- ✔️ Remove Todos by clicking the checkbox.
+- ✔️ Clear All button to remove all todos at once.
+- ✔️ Fully Responsive and optimized with best practices.
+
+## 🛠 Tech Stack
+
+- **Frontend**: React.js, Tailwind CSS
+
+## 🚀 Live Demo
+
+🔗 [Todo App](https://todo-wqqc.vercel.app/)
+
+## 📦 Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/todo-app.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd todo-app
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+4. Start the development server:
+   ```sh
+   npm start
+   ```
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+Feel free to contribute and improve this project! 🚀
